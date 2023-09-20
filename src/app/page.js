@@ -135,7 +135,7 @@ export default function Home() {
           {/* Do something with below loader!! */}
           <Loader variant="dots" />
         </Paper>
-        <Footer year="2023" fullName="Chayanin Suatap" studentId="650610560" />
+        <Footer year="2023" fullName="Panida Suthapakti" studentId="650610790" />
       </Stack>
     </Container>
   );
